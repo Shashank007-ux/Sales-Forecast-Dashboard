@@ -1,0 +1,101 @@
+Order ID,Date,Customer Name,Item,Category,Quantity,Price,Platform
+1001,1/12/2024,Jane Smith,Bluetooth Speaker,Electronics,4,1500,Snapdeal
+1002,6/3/2024,Jane Smith,Desk Lamp,Home Decor,4,800,Myntra
+1003,6/23/2024,Charlie Kim,Notebook,Stationery,2,70,Amazon
+1004,1/16/2024,John Doe,Desk Lamp,Home Decor,4,800,Amazon
+1005,2/26/2024,Jane Smith,Notebook,Stationery,3,70,Myntra
+1006,5/13/2024,Charlie Kim,Notebook,Stationery,5,70,Snapdeal
+1007,6/1/2024,Jane Smith,Desk Lamp,Home Decor,4,800,Amazon
+1008,4/4/2024,Jane Smith,Wireless Mouse,Electronics,2,499,Flipkart
+1009,6/2/2024,Charlie Kim,Notebook,Stationery,4,70,Myntra
+1010,1/12/2024,Charlie Kim,Pen Set,Stationery,5,150,Amazon
+1011,6/29/2024,Jane Smith,Bluetooth Speaker,Electronics,1,1500,Amazon
+1012,3/26/2024,Charlie Kim,Bluetooth Speaker,Electronics,2,1500,Snapdeal
+1013,3/12/2024,Jane Smith,Notebook,Stationery,3,70,Amazon
+1014,6/21/2024,Charlie Kim,Wireless Mouse,Electronics,3,499,Snapdeal
+1015,2/9/2024,Bob Lee,Wireless Mouse,Electronics,1,499,Amazon
+1016,1/19/2024,Jane Smith,Pen Set,Stationery,1,150,Flipkart
+1017,2/24/2024,John Doe,Pen Set,Stationery,4,150,Snapdeal
+1018,4/15/2024,Charlie Kim,Notebook,Stationery,2,70,Snapdeal
+1019,3/18/2024,Jane Smith,Desk Lamp,Home Decor,4,800,Myntra
+1020,6/23/2024,Jane Smith,Bluetooth Speaker,Electronics,2,1500,Flipkart
+1021,1/25/2024,Alice Johnson,Wireless Mouse,Electronics,1,499,Flipkart
+1022,5/16/2024,Bob Lee,Notebook,Stationery,4,70,Myntra
+1023,4/21/2024,Alice Johnson,Wireless Mouse,Electronics,2,499,Myntra
+1024,5/25/2024,Jane Smith,Notebook,Stationery,5,70,Snapdeal
+1025,1/21/2024,Jane Smith,Pen Set,Stationery,3,150,Myntra
+1026,5/6/2024,John Doe,Desk Lamp,Home Decor,3,800,Amazon
+1027,1/12/2024,Charlie Kim,Bluetooth Speaker,Electronics,4,1500,Snapdeal
+1028,2/29/2024,Charlie Kim,Notebook,Stationery,1,70,Myntra
+1029,6/7/2024,Alice Johnson,Desk Lamp,Home Decor,3,800,Snapdeal
+1030,5/23/2024,Bob Lee,Bluetooth Speaker,Electronics,4,1500,Amazon
+1031,3/12/2024,Bob Lee,Desk Lamp,Home Decor,1,800,Myntra
+1032,5/17/2024,Charlie Kim,Notebook,Stationery,3,70,Flipkart
+1033,3/2/2024,Jane Smith,Pen Set,Stationery,5,150,Flipkart
+1034,5/3/2024,Charlie Kim,Wireless Mouse,Electronics,5,499,Myntra
+1035,2/2/2024,Jane Smith,Wireless Mouse,Electronics,2,499,Flipkart
+1036,2/12/2024,Alice Johnson,Notebook,Stationery,3,70,Myntra
+1037,5/25/2024,Bob Lee,Notebook,Stationery,5,70,Myntra
+1038,6/23/2024,John Doe,Bluetooth Speaker,Electronics,3,1500,Myntra
+1039,6/25/2024,Alice Johnson,Wireless Mouse,Electronics,3,499,Flipkart
+1040,2/22/2024,Alice Johnson,Pen Set,Stationery,4,150,Myntra
+1041,2/28/2024,John Doe,Wireless Mouse,Electronics,4,499,Flipkart
+1042,3/1/2024,Charlie Kim,Desk Lamp,Home Decor,5,800,Snapdeal
+1043,2/28/2024,John Doe,Bluetooth Speaker,Electronics,3,1500,Amazon
+1044,4/3/2024,Charlie Kim,Pen Set,Stationery,1,150,Snapdeal
+1045,4/23/2024,John Doe,Wireless Mouse,Electronics,1,499,Flipkart
+1046,2/6/2024,Alice Johnson,Bluetooth Speaker,Electronics,4,1500,Myntra
+1047,1/30/2024,Bob Lee,Bluetooth Speaker,Electronics,2,1500,Flipkart
+1048,1/10/2024,Alice Johnson,Wireless Mouse,Electronics,2,499,Amazon
+1049,6/27/2024,John Doe,Notebook,Stationery,4,70,Flipkart
+1050,5/12/2024,John Doe,Notebook,Stationery,2,70,Flipkart
+1051,2/3/2024,Alice Johnson,Bluetooth Speaker,Electronics,5,1500,Amazon
+1052,1/28/2024,Alice Johnson,Desk Lamp,Home Decor,5,800,Myntra
+1053,3/18/2024,Jane Smith,Notebook,Stationery,4,70,Amazon
+1054,1/14/2024,Alice Johnson,Notebook,Stationery,5,70,Amazon
+1055,3/30/2024,Charlie Kim,Bluetooth Speaker,Electronics,5,1500,Flipkart
+1056,5/29/2024,John Doe,Wireless Mouse,Electronics,3,499,Amazon
+1057,5/26/2024,Bob Lee,Bluetooth Speaker,Electronics,3,1500,Snapdeal
+1058,4/21/2024,Bob Lee,Notebook,Stationery,5,70,Flipkart
+1059,2/9/2024,Charlie Kim,Wireless Mouse,Electronics,5,499,Myntra
+1060,6/20/2024,Jane Smith,Notebook,Stationery,1,70,Myntra
+1061,2/7/2024,Jane Smith,Pen Set,Stationery,2,150,Myntra
+1062,5/19/2024,Bob Lee,Notebook,Stationery,2,70,Myntra
+1063,6/27/2024,Alice Johnson,Desk Lamp,Home Decor,3,800,Snapdeal
+1064,3/17/2024,Bob Lee,Desk Lamp,Home Decor,2,800,Flipkart
+1065,4/1/2024,Charlie Kim,Desk Lamp,Home Decor,5,800,Flipkart
+1066,4/12/2024,John Doe,Wireless Mouse,Electronics,1,499,Amazon
+1067,3/10/2024,Bob Lee,Pen Set,Stationery,3,150,Amazon
+1068,4/7/2024,Bob Lee,Desk Lamp,Home Decor,1,800,Myntra
+1069,2/16/2024,Alice Johnson,Wireless Mouse,Electronics,1,499,Myntra
+1070,1/21/2024,John Doe,Bluetooth Speaker,Electronics,3,1500,Amazon
+1071,5/26/2024,Alice Johnson,Pen Set,Stationery,5,150,Flipkart
+1072,3/21/2024,Bob Lee,Notebook,Stationery,2,70,Amazon
+1073,1/16/2024,Charlie Kim,Bluetooth Speaker,Electronics,3,1500,Snapdeal
+1074,5/25/2024,Bob Lee,Desk Lamp,Home Decor,5,800,Snapdeal
+1075,3/6/2024,Jane Smith,Pen Set,Stationery,1,150,Myntra
+1076,1/29/2024,Bob Lee,Notebook,Stationery,3,70,Snapdeal
+1077,6/25/2024,Alice Johnson,Pen Set,Stationery,2,150,Myntra
+1078,5/28/2024,Jane Smith,Bluetooth Speaker,Electronics,5,1500,Flipkart
+1079,4/1/2024,Alice Johnson,Pen Set,Stationery,2,150,Snapdeal
+1080,2/25/2024,Alice Johnson,Bluetooth Speaker,Electronics,5,1500,Flipkart
+1081,3/2/2024,Bob Lee,Notebook,Stationery,5,70,Myntra
+1082,1/1/2024,Alice Johnson,Pen Set,Stationery,2,150,Flipkart
+1083,4/7/2024,Jane Smith,Wireless Mouse,Electronics,1,499,Myntra
+1084,4/27/2024,Jane Smith,Bluetooth Speaker,Electronics,3,1500,Amazon
+1085,6/3/2024,Jane Smith,Wireless Mouse,Electronics,3,499,Flipkart
+1086,6/23/2024,Jane Smith,Pen Set,Stationery,5,150,Amazon
+1087,3/10/2024,Jane Smith,Notebook,Stationery,2,70,Flipkart
+1088,4/8/2024,Charlie Kim,Pen Set,Stationery,5,150,Flipkart
+1089,6/11/2024,Charlie Kim,Wireless Mouse,Electronics,4,499,Myntra
+1090,1/18/2024,Jane Smith,Desk Lamp,Home Decor,5,800,Myntra
+1091,5/23/2024,Alice Johnson,Wireless Mouse,Electronics,5,499,Flipkart
+1092,6/20/2024,Alice Johnson,Notebook,Stationery,3,70,Amazon
+1093,2/18/2024,John Doe,Pen Set,Stationery,4,150,Flipkart
+1094,1/20/2024,Jane Smith,Wireless Mouse,Electronics,3,499,Amazon
+1095,2/1/2024,Bob Lee,Desk Lamp,Home Decor,5,800,Myntra
+1096,5/22/2024,Bob Lee,Wireless Mouse,Electronics,3,499,Flipkart
+1097,5/30/2024,John Doe,Bluetooth Speaker,Electronics,2,1500,Amazon
+1098,5/10/2024,Alice Johnson,Desk Lamp,Home Decor,1,800,Flipkart
+1099,2/12/2024,Charlie Kim,Notebook,Stationery,4,70,Amazon
+1100,2/26/2024,Charlie Kim,Pen Set,Stationery,2,150,Snapdeal
